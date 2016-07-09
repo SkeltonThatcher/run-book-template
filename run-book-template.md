@@ -100,7 +100,7 @@ _
 
 > What are the main differences between Production/Live and other environments? What kinds of things might therefore not be tested in upstream environments?
 
-_(e.g. Self-signed HTTPS certificates in Pre-Production - certificate expiry may not be detected properly)_
+_(e.g. Self-signed HTTPS certificates in Pre-Production - certificate expiry may not be detected properly in Production)_
 
 ###Tools###
 
@@ -141,9 +141,9 @@ _(e.g. Min: 10 encryption requests per node per minute. Max: around 100 encrypti
 
 ###Password and PII security###
 
-> What kind of security is in place for passwords and personally identifiable information? Are the passwords hashed with a strong hash function and salted?
+> What kind of security is in place for passwords and Personally Identifiable Information (PII)? Are the passwords hashed with a strong hash function and salted?
 
-_(e.g. Passwords are hashed with a 10-digit salt and SHA265)_
+_(e.g. Passwords are hashed with a 10-character salt and SHA265)_
 
 ###Ongoing security checks###
 
@@ -157,7 +157,7 @@ _(e.g. The ABC tool scans for reported CVE issues and reports via the ABC dashbo
 
 > How is configuration managed for the system?
 
-_(e.g. CloudInit bootstraps the installation of Puppet - Puppet then drives all system and application level configuration except for the XYZ service which is configured via files in Subversion)_
+_(e.g. CloudInit bootstraps the installation of Puppet - Puppet then drives all system and application level configuration except for the XYZ service which is configured via `App.config` files in Subversion)_
 
 ###Secrets management###
 
