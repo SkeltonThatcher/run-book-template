@@ -137,7 +137,7 @@ _(e.g. Min: 60 log lines per node per minute (100KB). Max: around 6000 log lines
 _(e.g. Min: 10 encryption requests per node per minute. Max: around 100 encryption requests per node per minute)_
 
 
-##Security and Access Control##
+##Security and access control##
 
 ###Password and PII security###
 
@@ -151,9 +151,9 @@ _(e.g. Passwords are hashed with a 10-character salt and SHA265)_
 
 _(e.g. The ABC tool scans for reported CVE issues and reports via the ABC dashboard)_
 
-##System Configuration##
+##System configuration##
  
-###Configuration Management###
+###Configuration management###
 
 > How is configuration managed for the system?
 
@@ -252,8 +252,8 @@ _(e.g. All `/health` endpoints should be checked every 60secs plus the synthetic
 
 _(e.g. Use a combination of the `/health` endpoint checks and the `abc-*.sh` scripts for diagnosing typical problems)_
 
-##Maintenance Tasks##
-###Patching### 
+##Maintenance tasks##
+###Patching###
 
 > How should patches be deployed and tested?
 
@@ -283,7 +283,7 @@ _(e.g. Use `abc-cleardown.ps1` run nightly to clear down the document cache)_
 
 _(e.g. The Windows Event Log *ABC Service* is set to a maximum size of 512MB)_
 
-##Failure and Recovery Procedures##
+##Failover and Recovery procedures##
 
 > What needs to happen when parts of the system are failed over to standby systems? What needs to during recovery? 
 
