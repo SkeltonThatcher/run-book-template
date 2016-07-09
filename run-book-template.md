@@ -283,7 +283,7 @@ _(e.g. Use `abc-cleardown.ps1` run nightly to clear down the document cache)_
 
 _(e.g. The Windows Event Log *ABC Service* is set to a maximum size of 512MB)_
 
-##Failure and Recovery Procedures## 
+##Failure and Recovery Procedures##
 
 > What needs to happen when parts of the system are failed over to standby systems? What needs to during recovery? 
 
