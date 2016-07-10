@@ -78,25 +78,25 @@ _(e.g. Commercial API gateway allows throttling control)_
 
 _(e.g. Exponential backoff on all HTTP-based services + `/health` healthcheck endpoints on all services)_
 
-###Expected Traffic and Load###
+###Expected traffic and load###
 
 > Details of the expected throughput/traffic: call volumes, peak periods, quiet periods. What factors drive the load: bookings, page views, number of items in Basket, etc.)
 
 _(e.g. Max: 1000 requests per second with 400 concurrent users - Friday @ 16:00 to Sunday @ 18:00, driven by likelihood of barbecue activity in the neighborhood)_
 
-####Hot or Peak Periods####
+####Hot or peak periods####
 
 _
 
-####Warm Periods####
+####Warm periods####
 
 _
 
-####Cool or Quiet Periods####
+####Cool or quiet periods####
 
 _
 
-###Environmental Differences###
+###Environmental differences###
 
 > What are the main differences between Production/Live and other environments? What kinds of things might therefore not be tested in upstream environments?
 
