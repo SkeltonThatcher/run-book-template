@@ -209,7 +209,7 @@ _(e.g. IDs 1000-1999: Database events; IDs 2000-2999: message bus events; IDs 30
 
 _(e.g. Usual VM stats (CPU, disk, threads, etc.) + around 200 application technical metrics + around 400 user-level metrics)_
 
-###Health Checks###
+###Health checks###
 
 > How is the health of dependencies (components and systems) assessed? How does the system report its own health?
 
@@ -217,7 +217,7 @@ _(e.g. Usual VM stats (CPU, disk, threads, etc.) + around 200 application techni
 
 _(e.g. Use `/health` HTTP endpoint for internal components that expose it. Other systems and external endpoints: typically HTTP 200 but some synthetic checks for some services)_
 
-####Health of dependencies
+####Health of service
 
 _(e.g. Provide `/health` HTTP endpoint: 200 --> basic health, 500 --> bad configuration + `/health/deps` for checking dependencies)_
 
