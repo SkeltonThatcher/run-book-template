@@ -14,7 +14,7 @@ _(e.g. Provides reliable automated reconciliation of logistics transactions from
 
 > What kind of system is this? Web-connected order processing? Back-end batch system? Internal HTTP-based API? ETL control system?
 
-_(e.g. Internal API for order reconcilation based on Ruby and RabbitMQ, deployed in Docker containers on Kubernetes)_
+_(e.g. Internal API for order reconciliation based on Ruby and RabbitMQ, deployed in Docker containers on Kubernetes)_
 
 ###Service Level Agreements (SLAs)###
 
