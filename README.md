@@ -24,7 +24,7 @@ Licenced under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) !
 ##How to use the template##
 
 1. Fork the repo
-1. Edit the file `run-book-template.md` 
+1. Edit the file [`run-book-template.md`](run-book-template.md) 
 1. Add your own operational & runtime checks - send us a Pull Request if you think your new checks are useful to others!
 1. Remove (or comment with _N/A_) those sections that really do not apply in your case (but double-check first).
 1. Use the template as a way to [encourage discussion and collaboration between Devs and Ops people for building better systems](http://runbookcollab.info/).
