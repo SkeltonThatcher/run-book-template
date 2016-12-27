@@ -5,7 +5,7 @@ A Run Book / Operations Manual template for modern software systems.
 There are two main files:
 
 1. [`run-book-template.md`](run-book-template.md) - the template itself (see below)
-2. The [Run Book Dialog Sheet](releases/), a PDF (300KB) with headings taken from the `run-book-template.md` and designed to be printed at A1 paper size for use in a team situation.
+2. The [Run Book Dialog Sheet](https://github.com/SkeltonThatcher/run-book-template/releases/latest), a PDF (300KB) with headings taken from the `run-book-template.md` and designed to be printed at A1 paper size for use in a team situation.
 
 ##Overview##
 
