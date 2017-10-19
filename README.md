@@ -7,7 +7,7 @@ There are two main files:
 1. [`run-book-template.md`](run-book-template.md) - the template itself (see below)
 2. The [Run Book Dialog Sheet](https://github.com/SkeltonThatcher/run-book-template/releases/latest), a PDF (300KB) with headings taken from the `run-book-template.md` and designed to be printed at A1 paper size for use in a team situation.
 
-##Overview##
+## Overview
 
 The file `run-book-template.md` contains suggested checks and procedures for most non-trivial software systems that can be used as **a template to create a Run Book or System Operation Manual** (SOM). Treat the resulting information as a starting point for discussions about operational readiness. 
 
@@ -21,7 +21,7 @@ Copyright © 2014-2016 [Skelton Thatcher Consulting](https://skeltonthatcher.com
 
 Licenced under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) ![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/3.0/88x31.png)
 
-##How to use the template##
+##  How to use the template
 
 1. Fork the repo
 1. Edit the file [`run-book-template.md`](run-book-template.md) 
