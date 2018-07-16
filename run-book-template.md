@@ -1,5 +1,12 @@
 # Run Book / System Operation Manual
 
+See [`README.md`](README.md) for details of how to use this **Run Book / System Operation Manual** template.
+
+Copyright © 2014-2016 [Skelton Thatcher Consulting](https://skeltonthatcher.com/)
+
+Licenced under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) ![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/3.0/88x31.png)
+
+
 ## Service or system overview
 
 **Service or system name:** 
