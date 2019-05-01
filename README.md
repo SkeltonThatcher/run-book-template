@@ -18,6 +18,7 @@ You'll likely get the best outcomes from having the **software development team 
 Have fun! _Matthew Skelton & Rob Thatcher_
 
 > The book [Team Guide to Software Operability](http://operabilitybook.com/) has a chapter dedicated to the use of Run Book collaboration and the Run Book dialogue sheet, including details of how different teams use these techniques. 
+> <img src="Team-Guide-to-Software-Operability.png" width="200" />
 
 Copyright © 2014-2016 [Skelton Thatcher Consulting](https://skeltonthatcher.com/)
 
