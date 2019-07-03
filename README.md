@@ -7,6 +7,10 @@ There are two main files:
 1. [`run-book-template.md`](run-book-template.md) - the template itself (see below)
 2. The [Run Book Dialogue Sheet](https://github.com/SkeltonThatcher/run-book-template/releases/latest), a PDF (300KB) with headings taken from the `run-book-template.md` and designed to be printed at A1 paper size for use in a team situation. _The Run Book Dialogue Sheet is based on the work on [Dialogue Sheets by Allan Kelly](https://www.infoq.com/articles/dialogue-sheets-retrospectives) and used with his permission._
 
+<a href="https://github.com/SkeltonThatcher/run-book-template/releases/latest">
+	<img src="Run-Book-dialogue-sheet.png" title="Download a PDF of the Run Book dialogue sheet" alt="Download a PDF of the Run Book dialogue sheet" width="300px" />
+</a>
+
 ## Overview
 
 The file `run-book-template.md` contains suggested checks and procedures for most non-trivial software systems that can be used as **a template to create a Run Book or System Operation Manual** (SOM). Treat the resulting information as a starting point for discussions about operational readiness. 
