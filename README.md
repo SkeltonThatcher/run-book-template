@@ -8,7 +8,7 @@ There are two main files:
 2. The [Run Book Dialogue Sheet](https://github.com/SkeltonThatcher/run-book-template/releases/latest), a PDF (300KB) with headings taken from the `run-book-template.md` and designed to be printed at A1 paper size for use in a team situation. _The Run Book Dialogue Sheet is based on the work on [Dialogue Sheets by Allan Kelly](https://www.infoq.com/articles/dialogue-sheets-retrospectives) and used with his permission._
 
 <a href="https://github.com/SkeltonThatcher/run-book-template/releases/latest">
-	<img src="Run-Book-dialogue-sheet.png" title="Download a PDF of the Run Book dialogue sheet" alt="Download a PDF of the Run Book dialogue sheet" width="300px" />
+	<img src="Run-Book-dialogue-sheet.png" title="Download a PDF of the Run Book dialogue sheet" alt="Download a PDF of the Run Book dialogue sheet" width="300px" style="border: 1px solid gray" />
 </a>
 
 ## Overview
