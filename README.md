@@ -17,7 +17,7 @@ The file `run-book-template.md` contains suggested checks and procedures for mos
 
 In our experience, most interesting software systems will need engineers to address the majority of the points, if only to confirm that "this section definitely does not apply here" - a valuable realisation. Each section has a description to set the context and explain why it's needed. 
 
-You'll likely get the best outcomes from having the **software development team own and drive the activities around the Run Book**, seeking input from Testers and Ops people to fill in gaps in knowledge. In practice, you'll want to automate many of the checks and procedures (rather than leaving them in a wiki), but remember: _discussion, not documentation_ is where the value lies in Run Book collaboration!  See [runbookcollab.info](http://runbookcollab.info/) for more details.
+You'll likely get the best outcomes from having the **software development team own and drive the activities around the Run Book**, seeking input from Testers and Ops people to fill in gaps in knowledge. In practice, you'll want to automate many of the checks and procedures (rather than leaving them in a wiki), but remember: _discussion, not documentation_ is where the value lives in Run Book collaboration!  See [runbookcollab.info](http://runbookcollab.info/) for more details.
 
 Have fun! _Matthew Skelton & Rob Thatcher_
 
